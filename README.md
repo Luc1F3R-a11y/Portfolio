@@ -16,8 +16,8 @@ To obtain a frontend development role where I can apply my skills to build visua
 ## 📬 Contact
 Feel free to reach out:
 
-- Email: your.email@example.com  
-- GitHub: [github.com/krishikhanna](https://github.com/krishikhanna) *(replace with your actual username)*  
+- Email: kkhanna704@gmail.com 
+- GitHub: [github.com/Luc1F3R-a11y](https://github.com/Luc1F3R-a11y) *(replace with your actual username)*  
 - LinkedIn: *(optional)*
 
 ## 📄 License
